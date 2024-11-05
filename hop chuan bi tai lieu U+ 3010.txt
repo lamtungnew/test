@@ -1,0 +1,57 @@
+(1) Project current status
+Overview
+VNB scope
+Stage: loai task, biểu đồ số lượng bug, số lượng task theo sprint
+Result: 
+issue:
+
+(2) Project problem/ issue/ difficulty 
+Problem/ issue/ difficulty: 
++) Requirement không rõ ràng
+Rootcause: hệ thống lớn, chưa có nhiều kinh nghiệm, 
+Solution/ Action (item need to get support): tăng tần suất giao tiếp 
+giữa 2 team, tạo Q&A, cung cấp tài liệu nếu có thể, team VNB chủ động
+tìm hiểu requirement và yêu cầu HQ extend thời hạn làm task sớm.
+
++ VDI: nêu ảnh hưởng của vđ: ko shutdown VDI, 
+ghi lại thông số của CPU, ram.
+
++ BM phải test bug phát sinh từ sprint trước cùng với việc 
+phần tích sprint tiếp theo. Rootcause: BM workload cao, chưa có nhiều
+kĩ năng test. Action: theo dõi workload của các sprint sau để điều chỉnh
+
++ BM phải làm nhiều vai tro: quản lý, phân tích, 
+dịch, test, kỹ thuật, domain. Action: các leader trao đổi với CL 
+để có giải pháp khắc phục, HQ cho thêm thời gian để BM phát triển
+
++ BM tốn nhiều time để dịch, VDI U+ không có tool hỗ trợ dịch. Action:
+config VDI để cài đặt thêm tool dịch, cấp quyền cho 1 số dự án có thể
+dùng google translate.
+
++ Dev backend phải làm task FE.
+
+(3) Project proposal (if any)
+System improvement: 
++) Cải thiện quy trình làm việc với PMO HQ, 
+BM đang phải làm việc nhiều kênh chồng chéo nhau.
+VD: Hằng phải làm việc với nhiều bên.
+
+Member developement: 
++) HQ cho thời gian để BM phát triển, giảm áp lực cho BM.
++) làm form thu thập ý kiến của member.
++) kế hoạch linh động cho từng BM
+
+4) Learning journey
+- BM: 
++ Tech: SQL, API, Data modeling, 
+process modeling, Git, vẽ wireframe.
++ Test: kỹ năng viết testcase, 3rd test, TDD
++ BA: kỹ năng phân tích nghiệp vụ, onjob learning
++ Quản lý: kỹ năng về Agile.
+
+- Dev:
++ Tech: Springboot, Websquare, VueJS, Javascript, data modeling, 
+process modeling, trọng tâm cho U+, nguồn học, đưa thêm ví dụ.
++ Test: kỹ năng viết unitest, 3rd test, TDD
++ Quản lý: kỹ năng Agile.
+
